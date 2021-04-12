@@ -1,0 +1,1 @@
+Este es un microsresúmen de Tardos, y sólo eso. Apuntes personales de TDA.
